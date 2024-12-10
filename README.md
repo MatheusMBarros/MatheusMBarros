@@ -11,6 +11,7 @@ Feel free to reach out if you have any questions or need help with something!
 
 I enjoy working with a variety of programming languages and frameworks. Here's a list of some of my favorite tools:
 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original-wordmark.svg" width="40" height="40" alt="React"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="Spring"/></code>
