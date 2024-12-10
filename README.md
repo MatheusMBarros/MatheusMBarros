@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub profile.
+## Hey! Welcome to my GitHub profile. ##
 
 Hi, I'm **Matheus Barros**, a passionate developer and aspiring software engineer. I love bringing ideas to life through elegant and user-friendly software interfaces. I focus on writing clean, maintainable code and building high-quality experiences.
 
